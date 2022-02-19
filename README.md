@@ -1,5 +1,3 @@
- Hi there 👋
-
 - 👋 Hi, I’m @Dylanswaggerino
 - 🔭 I’m currently working on [RPG-Gaming](rpg-gaming.net) and Web Development
 - 🌱 I’m currently learning Software development
